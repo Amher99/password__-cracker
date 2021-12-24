@@ -1,1 +1,4 @@
-# password__-cracker
+# password__cracker
+
+password-Amher
+Requirements-windows 
